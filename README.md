@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @AjeshGuleria
-- 👀 I’m interested in ... Ai & Coding 
-- 🌱 I’m currently learning ... python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... I'm on x @ajeshguleria
+Hi I am Ajesh Guleria
 
 <!---
 AjeshGuleria/AjeshGuleria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
